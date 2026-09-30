@@ -27,7 +27,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/Jenkins1607/socket-pyserver.git
+git clone https://github.com/Jenkins1607/socket-pyserver
 cd socket-pyserver
 
 # Запуск сервера
