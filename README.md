@@ -31,4 +31,4 @@ git clone https://github.com/Jenkins1607/socket-pyserver.git
 cd socket-pyserver
 
 # Запуск сервера
-python server.py
+python main.py
